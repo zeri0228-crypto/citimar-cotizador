@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /
+
+# Este archivo evita que Google y otros buscadores indexen el cotizador.
+# Publicar en la raíz del sitio en Vercel.
